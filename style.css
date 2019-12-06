@@ -1,0 +1,44 @@
+.js-square {
+    height: 10rem;
+    width: 10rem;
+    background-color: red;
+}
+.js-button {
+    margin-top: 2rem;
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
+}
+.js-button_buttons {
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    background-color: black;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 2rem;
+}
+.js-circle_circles {
+    margin-bottom: 1rem;
+    height: 5rem;
+    width: 5rem;
+    background-color: blue;
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
+.js-rectangle {
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
+}
+.js-rectangle_regtangles {
+    margin-right: 1rem;
+    display: inline-block;
+    width: 8rem;
+    height: 3rem;
+    background-color: pink;
+}
+.black {
+    height: 3rem;
+    width: 10rem;
+    background-color: #000;
+}
